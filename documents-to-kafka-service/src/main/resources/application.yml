@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: documents-to-kafka-service
+
+log:
+  app-name: documents-to-kafka-service
