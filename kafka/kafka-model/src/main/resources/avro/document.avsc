@@ -1,0 +1,11 @@
+{"namespace": "de.dmichel90.ms_with_kafka.kafka.avro.model",
+  "type": "record",
+  "name": "DocumentAvroModel",
+  "fields": [
+    {"name": "id", "type": "string"},
+    {"name": "name", "type": "string"},
+    {"name": "mimeType", "type": "string"},
+    {"name": "path", "type": "string"},
+    {"name": "createdAt", "type": ["null", "long"], "logicalType": ["null", "date"]}
+  ]
+}
