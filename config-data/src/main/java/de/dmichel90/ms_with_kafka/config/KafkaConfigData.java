@@ -1,4 +1,4 @@
-package de.dmichel90.ms_with_kafka.kafka.admin.config;
+package de.dmichel90.ms_with_kafka.config;
 
 import lombok.Data;
 import org.springframework.boot.context.properties.ConfigurationProperties;
