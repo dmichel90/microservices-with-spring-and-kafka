@@ -1,5 +1,6 @@
 package de.dmichel90.ms_with_kafka.kafka.admin.config;
 
+import de.dmichel90.ms_with_kafka.config.KafkaConfigData;
 import org.apache.kafka.clients.CommonClientConfigs;
 import org.apache.kafka.clients.admin.AdminClient;
 import org.springframework.context.annotation.Bean;

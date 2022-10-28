@@ -1,7 +1,7 @@
 package de.dmichel90.ms_with_kafka.kafka.admin.client;
 
-import de.dmichel90.ms_with_kafka.kafka.admin.config.KafkaConfigData;
-import de.dmichel90.ms_with_kafka.kafka.admin.config.RetryConfigData;
+import de.dmichel90.ms_with_kafka.config.KafkaConfigData;
+import de.dmichel90.ms_with_kafka.config.RetryConfigData;
 import de.dmichel90.ms_with_kafka.kafka.admin.exception.KafkaClientException;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.kafka.clients.admin.AdminClient;
