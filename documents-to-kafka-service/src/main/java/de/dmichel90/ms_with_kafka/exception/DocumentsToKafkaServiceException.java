@@ -1,4 +1,4 @@
-package de.dmichel90.exception;
+package de.dmichel90.ms_with_kafka.exception;
 
 public class DocumentsToKafkaServiceException extends RuntimeException{
 

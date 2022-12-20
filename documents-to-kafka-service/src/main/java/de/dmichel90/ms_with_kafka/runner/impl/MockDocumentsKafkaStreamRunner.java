@@ -1,8 +1,8 @@
 package de.dmichel90.ms_with_kafka.runner.impl;
 
 
-import de.dmichel90.exception.DocumentsToKafkaServiceException;
 import de.dmichel90.ms_with_kafka.config.DocumentsToKafkaServiceConfigData;
+import de.dmichel90.ms_with_kafka.exception.DocumentsToKafkaServiceException;
 import de.dmichel90.ms_with_kafka.listener.DocumentKafkaFolderListener;
 import de.dmichel90.ms_with_kafka.model.Document;
 import de.dmichel90.ms_with_kafka.runner.StreamRunner;
